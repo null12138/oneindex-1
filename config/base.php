@@ -1,6 +1,6 @@
 <?php return array (
-  'site_name' => 'OneIndex',
-  'password' => 'RUYO.net123',
+  'site_name' => 'OneIndex For 任雨晨',
+  'password' => '060911',
   'style' => 'material',
   'onedrive_root' => '',
   'cache_expire_time' => 3600,
